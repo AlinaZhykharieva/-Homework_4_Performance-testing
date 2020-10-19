@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603113338979,3350,Open demo.nopcommerce.com,200,OK,Thread Group 1-1,text,true,,7397,340,1,1,https://demo.nopcommerce.com/,3340,0,2104
+1603113342359,1029,Search a product,200,OK,Thread Group 1-1,text,true,,1389,593,1,1,https://demo.nopcommerce.com/catalog/searchtermautocomplete?term=first-prize-pies,1028,0,82
+1603113343392,1106,Open search result page,200,OK,Thread Group 1-1,text,true,,6050,534,1,1,https://demo.nopcommerce.com/search?q=first-prize-pies,1104,0,0
+1603113344503,1370, Open searched product detail page,200,OK,Thread Group 1-1,text,true,,11551,546,1,1,https://demo.nopcommerce.com/first-prize-pies,1365,0,78
+1603113345880,970,Add product to cart,200,OK,Thread Group 1-1,text,true,,1897,1114,1,1,https://demo.nopcommerce.com/addproducttocart/details/38/1,969,0,0
+1603113346853,1333,Go to the cart,200,OK,Thread Group 1-1,text,true,,10044,718,1,1,https://demo.nopcommerce.com/cart,1329,0,64
